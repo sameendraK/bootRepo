@@ -1,0 +1,26 @@
+body{
+    background-color:cyan   
+}
+.colData{
+    margin: 5px;
+    background-color: rgb(180, 60, 60);
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    height: 200px;
+    text-align: center;
+}
+.right{
+    margin: 5px;
+    background-color: rgb(51, 126, 88);
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    height: 200px;
+    text-align: center;
+}
+#fc1{
+    border-color: chartreuse;
+    background-image: -o-repeating-linear-gradient("");
+}
+.jumbotron{
+    background-color: rgb(81, 255, 0);
+}
